@@ -1,0 +1,18 @@
+body{
+    background-image: url();
+}
+
+img{
+    float: left;
+}
+
+#container{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.place{
+    background-color: rgba(15, 136, 15, 0.37);
+    margin-bottom: 10px;
+    display: table;
+}
